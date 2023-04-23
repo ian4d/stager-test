@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New Episode!"
+title:  "Notes on Camp"
 ---
 
 Here is a description of the episode
