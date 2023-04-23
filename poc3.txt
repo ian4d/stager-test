@@ -1,8 +1,0 @@
----
-layout: post
-title: $TITLE
-publish_date: 1659295051719
-end_date: 1659295951719
----
-
-TEST MESSAGE
