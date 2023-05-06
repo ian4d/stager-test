@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Adventures in the Simple Life"
+title:  "Ladies and Germs"
 ---
 
 Here is a description of the episode
