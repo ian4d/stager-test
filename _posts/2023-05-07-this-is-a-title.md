@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New Beginnings"
+title:  "Small Scale Sin"
 ---
 
 Here is a description of the episode
