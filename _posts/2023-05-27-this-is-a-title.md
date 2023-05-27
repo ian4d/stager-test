@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Christmas"
+title:  "Quitting"
 ---
 
 Here is a description of the episode
