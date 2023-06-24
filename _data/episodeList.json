@@ -233,5 +233,23 @@
       "Scott Carrier",
       "Ez Malone"
     ]
+  },
+  {
+    "number": "41",
+    "title": "Politics",
+    "contributors": [
+      "Announcer 1",
+      "Henry Jenkins",
+      null,
+      "Announcer 2",
+      "Rudy Rico",
+      "Michael Lewis",
+      "Ann Riley",
+      "Joan Jett Black",
+      "Rosemary Eckersley",
+      "Ira Glass",
+      "Man",
+      "Daniel D. Portado"
+    ]
   }
 ]
