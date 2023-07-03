@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "number": "1",
+    "title": "New Beginnings",
+    "contributors": [
+      "Receptionist",
+      null,
+      "Harrison Ford",
+      "Lawrence Steger",
+      "Joe Franklin",
+      "Ira Glass",
+      "Kevin Kelly",
+      "Shirley Glass",
+      "Ed Ryder"
+    ]
+  }
+]
