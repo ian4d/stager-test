@@ -60,5 +60,15 @@
       "Woman",
       "Miss Helfinger"
     ]
+  },
+  {
+    "number": "4",
+    "title": "Vacations",
+    "contributors": [
+      null,
+      "David Sedaris",
+      "Ira Glass",
+      "Sandra Tsing Loh"
+    ]
   }
 ]
